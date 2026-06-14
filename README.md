@@ -104,7 +104,7 @@ Swami Vivekanand Subharti University
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: Your LinkedIn Profile Link
+💼 LinkedIn: https://www.linkedin.com/in/priyanka-maurya-0889a2330
 
 📧 Email: priyanka7307@gmail.com
 
