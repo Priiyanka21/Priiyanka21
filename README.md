@@ -101,7 +101,17 @@ Swami Vivekanand Subharti University
 - Power BI Advanced Features
 
 ---
+## 🎯 Current Focus
 
+🔹 Building end-to-end Data Analytics projects
+
+🔹 Improving SQL and Python skills
+
+🔹 Creating professional Power BI dashboards
+
+🔹 Learning advanced data visualization techniques
+
+🔹 Strengthening statistical analysis concepts
 ## 📫 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/priyanka-maurya-0889a2330
