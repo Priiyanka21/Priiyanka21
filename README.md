@@ -110,8 +110,8 @@ Swami Vivekanand Subharti University
 
 ---
 
-### ✨ Quote
+Thank you for visiting my GitHub profile!
 
-"Data is the new oil, but insights are the real fuel."
+I am always excited to learn, collaborate, and grow in the field of Data Analytics.
 
-Thank you for visiting my profile! 😊
+⭐ Feel free to explore my repositories and connect with me.
