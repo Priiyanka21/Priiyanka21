@@ -1,5 +1,5 @@
 
-# Hi there, I'm Priyanka Maurya 👋
+# Hi ! I'm Priyanka Maurya 👋
 
 ## 🚀 About Me
 
