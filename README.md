@@ -105,7 +105,7 @@ const priyanka = {
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-maurya-0889a2330?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://priiyanka21.github.io/Priyanka_portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priiyanka21/Priyanka-portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priiyanka21)
 
 ---
