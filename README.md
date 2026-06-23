@@ -1,9 +1,8 @@
-<!-- Header -->
 <div align="center">
 
-# Hi there, I'm Priyanka Maurya 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Priyanka+%F0%9F%91%8B;Data+Analytics+%7C+Power+BI+%7C+SQL;Building+a+Big+4+Ready+Portfolio+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Analytics+Enthusiast;Power+BI+%7C+SQL+%7C+Python;Aspiring+Big+4+Consultant;B.Tech+CSE+%40+SVSU+2028" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=header&text=Priyanka%20Maurya&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 </div>
 
@@ -11,20 +10,20 @@
 
 ```javascript
 const priyanka = {
-  name        : "Priyanka Maurya",
-  degree      : "B.Tech CSE @ SVSU (2024–2028)",
-  currentRole : [
+  name          : "Priyanka Maurya",
+  degree        : "B.Tech CSE @ SVSU (2024–2028)",
+  currentRole   : [
     "AI Data Analytics Intern @ InAmigos Foundation",
     "Internshala Student Partner (ISP)"
   ],
-  skills      : {
-    tools     : ["Power BI", "Excel", "SQL", "Python"],
-    platforms : ["GitHub", "LinkedIn", "Forage"]
+  skills        : {
+    tools       : ["Power BI", "Excel", "SQL", "Python"],
+    platforms   : ["GitHub", "LinkedIn", "Forage"]
   },
-  goal        : "Big 4 Consulting Internship",
-  target      : ["Deloitte", "EY", "KPMG", "Accenture"],
-  currentFocus: "Building a Big 4 Ready Data Analytics Portfolio",
-  funFact     : "Most insights appear after a second look at the data 📊"
+  goal          : "Big 4 Consulting Internship",
+  target        : ["Deloitte", "EY", "KPMG", "Accenture"],
+  currentFocus  : "Building a Big 4 Ready Data Analytics Portfolio",
+  funFact       : "Most insights appear after a second look at the data 📊"
 };
 ```
 
@@ -32,124 +31,89 @@ const priyanka = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Priiyanka21&color=58A6FF&style=flat-square&label=Profile+Views)
-&nbsp;
-![Power BI Projects](https://img.shields.io/badge/Power%20BI%20Projects-8%2B-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-&nbsp;
-![Certifications](https://img.shields.io/badge/Certifications-7%2B-brightgreen?style=flat-square)
+## 🛠️ Tech Stack
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
 ---
 
-### 🐱 My GitHub Data
-
-> 📦 &nbsp;**14 Public Repositories**
-
-> 🔑 &nbsp;**0 Private Repositories**
-
-> 🏆 &nbsp;**68 Contributions in the Year 2026**
-
----
-
-### 🦉 I'm a Night Owl
-
-| Time of Day | Commits |
-|---|---|
-| 🌞 Morning | 2069 commits |
-| 🏙️ Daytime | 4354 commits |
-| 🌆 Evening | 4789 commits |
-| 🌙 Night | 1871 commits |
-
----
-
-### 📅 I'm Most Productive on Sunday
-
-| Day | Commits |
-|---|---|
-| Monday | 1631 commits |
-| Tuesday | 1879 commits |
-| Wednesday | 1777 commits |
-| Thursday | 1527 commits |
-| Friday | 1456 commits |
-| Saturday | 1890 commits |
-| **Sunday** | **2923 commits** ⭐ |
-
----
-
-### 📊 Power BI Dashboard Portfolio
-
-| # | Project | Domain |
-|---|---|---|
-| 01 | 🧑‍💼 HR Analytics + Attrition Root Cause | Human Resources |
-| 02 | 💳 Credit Card Fraud Detection | Finance |
-| 03 | 📉 Customer Churn Prediction | Telecom |
-| 04 | 🚚 Supply Chain Analytics | Operations |
-| 05 | 📣 Marketing Analytics | Marketing |
-| 06 | 🛒 Amazon Sales Analytics | E-Commerce |
-| 07 | 🎬 Netflix Content Analysis | Media |
-| 08 | ⚠️ Financial Risk Dashboard | Finance |
-
----
-
-### 🏅 Certifications
-
-```
-✅  One Roadmap — Big 4 Ready
-✅  Udacity — Google Cloud AI
-✅  TATA Forage — GenAI Powered Data Analytics
-✅  Deloitte — Data Analytics Job Simulation
-✅  Simplilearn — Introduction to Data Analytics
-✅  SkillCourse — 30-Day Power BI & Python
-✅  Be10x — AI Tools Workshop
-```
-
----
-
-### 📈 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Priiyanka21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priiyanka21&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+## 📊 GitHub Stats
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Priiyanka21&show_icons=true&theme=tokyonight&border_color=A855F7&title_color=A855F7&icon_color=A855F7&hide_border=false" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priiyanka21&theme=tokyonight&border=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="48%"/>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priiyanka21&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priiyanka21&layout=compact&theme=tokyonight&border_color=A855F7&title_color=A855F7" width="40%"/>
 
 </div>
 
 ---
 
-### 🛠️ Tools & Technologies
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Priiyanka21&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🤝 I love connecting with different people
-### so if you want to say hi, I'll be happy to meet you more! 😊
+## 📈 My Dashboards (Power BI Portfolio)
 
-<br/>
+| Dashboard | Tools Used |
+|-----------|-----------|
+| 🧑‍💼 HR Analytics + Attrition | Power BI, DAX |
+| 💳 Credit Card Fraud Detection | Power BI, Python |
+| 📉 Customer Churn Prediction | Power BI, SQL |
+| 🚚 Supply Chain Analytics | Power BI, Excel |
+| 📣 Marketing Analytics | Power BI, DAX |
+| 🛒 Amazon Sales Dashboard | Power BI |
+| 🎬 Netflix Content Analysis | Power BI |
+| 💰 Financial Risk Dashboard | Power BI, DAX |
 
-<a href="https://www.linkedin.com/in/priyanka-maurya-0889a2330" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://priiyanka21.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Certifications
+
+![Deloitte](https://img.shields.io/badge/Deloitte-Forage-86BC25?style=flat-square&logo=deloitte&logoColor=white)
+![Tata](https://img.shields.io/badge/Tata%20GenAI-Forage-003087?style=flat-square)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20AI-Udacity-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-SkillCourse-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Big 4 Ready](https://img.shields.io/badge/Big%204%20Ready-One%20Roadmap-A855F7?style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanka-maurya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://priiyanka21.github.io/Priyanka_portfolio)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priiyanka21)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Priiyanka21&color=A855F7&style=flat-square&label=Profile+Views)
+![Power BI Projects](https://img.shields.io/badge/Power%20BI%20Projects-8%2B-A855F7?style=flat-square)
+![Certifications](https://img.shields.io/badge/Certifications-11%2B-7C3AED?style=flat-square)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" width="100%"/>
 
 </div>
