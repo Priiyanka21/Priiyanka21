@@ -44,7 +44,7 @@ const priyanka = {
 
 ### 🐱 My GitHub Data
 
-> 📦 &nbsp;**13 Public Repositories**
+> 📦 &nbsp;**14 Public Repositories**
 
 > 🔑 &nbsp;**0 Private Repositories**
 
